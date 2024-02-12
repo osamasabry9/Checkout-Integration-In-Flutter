@@ -1,4 +1,0 @@
-#Mon Feb 12 11:03:12 EET 2024
-base.0=/home/erhy/Projects/Flutter/checkout_integration/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
