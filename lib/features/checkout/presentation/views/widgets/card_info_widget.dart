@@ -17,39 +17,42 @@ class CardInfoWidget extends StatelessWidget {
           borderRadius: BorderRadius.circular(15),
         ),
       ),
-      child: Row(
-        children: [
-          SvgPicture.asset('assets/images/master_card.svg'),
-          const SizedBox(
-            width: 23,
-          ),
-          Text.rich(
-            TextSpan(
-              children: [
-                const TextSpan(
-                  text: 'Credit Card',
-                  style: TextStyle(
-                    color: Colors.black,
-                    fontSize: 18,
-                    fontFamily: 'Inter',
-                    fontWeight: FontWeight.w400,
-                    height: 0,
-                  ),
-                ),
-                TextSpan(
-                  text: 'Mastercard **78',
-                  style: TextStyle(
-                    color: Colors.black.withOpacity(0.699999988079071),
-                    fontSize: 16,
-                    fontFamily: 'Inter',
-                    fontWeight: FontWeight.w400,
-                    height: 0,
-                  ),
-                ),
-              ],
+      child: FittedBox(
+        fit: BoxFit.scaleDown,
+        child: Row(
+          children: [
+            SvgPicture.asset('assets/images/master_card.svg'),
+            const SizedBox(
+              width: 23,
             ),
-          )
-        ],
+            Text.rich(
+              TextSpan(
+                children: [
+                  const TextSpan(
+                    text: 'Credit Card',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 18,
+                      fontFamily: 'Inter',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                  TextSpan(
+                    text: 'Mastercard **78',
+                    style: TextStyle(
+                      color: Colors.black.withOpacity(0.699999988079071),
+                      fontSize: 16,
+                      fontFamily: 'Inter',
+                      fontWeight: FontWeight.w400,
+                      height: 0,
+                    ),
+                  ),
+                ],
+              ),
+            )
+          ],
+        ),
       ),
     );
   }
