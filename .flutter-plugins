@@ -1,2 +1,5 @@
 # This is a generated file; do not edit or check into version control.
 flutter_credit_card=/home/erhy/.pub-cache/hosted/pub.dev/flutter_credit_card-4.0.1/
+flutter_stripe=/home/erhy/.pub-cache/hosted/pub.dev/flutter_stripe-10.0.0/
+stripe_android=/home/erhy/.pub-cache/hosted/pub.dev/stripe_android-10.0.0/
+stripe_ios=/home/erhy/.pub-cache/hosted/pub.dev/stripe_ios-10.0.0/
