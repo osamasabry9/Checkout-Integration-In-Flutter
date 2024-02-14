@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import '../../../../../core/utils/styles.dart';
+import '../../../../core/utils/styles.dart';
 import 'card_info_widget.dart';
 import 'payment_info_item.dart';
 import 'total_price_widget.dart';

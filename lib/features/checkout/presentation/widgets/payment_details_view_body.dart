@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-
 import 'package:flutter/material.dart';
 
 import '../../../../../core/widgets/custom_button.dart';
-import '../thank_you_view.dart';
+
+import '../views/thank_you_view.dart';
 import 'custom_credit_card.dart';
 import 'payment_methods_list_view.dart';
 
