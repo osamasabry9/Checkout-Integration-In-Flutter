@@ -1,4 +1,4 @@
-import 'package:checkout_integration/features/checkout/presentation/widgets/custom_button_bloc_consumer.dart';
+import 'custom_button_bloc_consumer.dart';
 import 'package:flutter/material.dart';
 
 import 'payment_methods_list_view.dart';

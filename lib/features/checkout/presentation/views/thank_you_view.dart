@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import '../../../../core/widgets/custom_app_bar.dart';
 import '../widgets/thank_you_view_body.dart';
 
-
 class ThankYouView extends StatelessWidget {
   const ThankYouView({super.key});
 

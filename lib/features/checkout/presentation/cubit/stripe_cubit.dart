@@ -9,7 +9,7 @@ part 'stripe_states.dart';
 class StripeCubit extends Cubit<StripeStates> {
   StripeCubit(this.checkoutRepo) : super(StripeInitial());
 
-  final CheckoutRepo checkoutRepo ;
+  final CheckoutRepo checkoutRepo;
 
   Future<void> makePayment({
     required PaymentIntentInputModel paymentIntentInputModel,
