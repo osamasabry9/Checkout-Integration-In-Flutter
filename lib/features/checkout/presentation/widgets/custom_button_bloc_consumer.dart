@@ -1,8 +1,9 @@
-import 'package:checkout_integration/core/widgets/custom_button.dart';
-import 'package:checkout_integration/features/checkout/presentation/cubit/stripe_cubit.dart';
+import '../../../../core/widgets/custom_button.dart';
+import '../cubit/stripe_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import '../../../../core/utils/api_keys.dart';
 import '../../data/models/payment_intent_input_model/payment_intent_input_model.dart';
 import '../views/thank_you_view.dart';
 
@@ -35,6 +36,7 @@ class CustomButtonBlocConsumer extends StatelessWidget {
             final paymentIntentInputModel = PaymentIntentInputModel(
               amount: "100",
               currency: "USD",
+              customerId:  ApiKeys.customerId,
             );
             BlocProvider.of<StripeCubit>(context)
                 .makePayment(paymentIntentInputModel: paymentIntentInputModel);

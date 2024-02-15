@@ -1,7 +1,6 @@
 part of 'stripe_cubit.dart';
 
-
-abstract class StripeStates {} 
+abstract class StripeStates {}
 
 class StripeInitial extends StripeStates {}
 
