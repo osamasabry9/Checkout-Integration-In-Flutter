@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-89:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-91:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/home/erhy/.gradle/caches/transforms-3/53752808c8a171e555fcaddc5bf884b6/transformed/jetified-play-services-basement-18.0.0/res/values-es-rUS/values.xml",
