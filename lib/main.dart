@@ -5,7 +5,7 @@ import 'core/utils/api_keys.dart';
 import 'features/checkout/presentation/views/my_cart_view.dart';
 
 void main() {
-  Stripe.publishableKey = ApiKeys.publishableKey;
+  Stripe.publishableKey = AppKeys.publishableKey;
   runApp(const MyApp());
 }
 
