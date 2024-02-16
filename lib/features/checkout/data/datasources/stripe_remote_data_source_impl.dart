@@ -22,7 +22,7 @@ class StripeRemoteDataSourceImpl implements StripeRemoteDataSource {
     var response = await apiService.post(
       url: AppConstants.paymentIntentsUrl,
       body: paymentIntentInputModel.toJson(),
-      token: ApiKeys.secretKey,
+      token: AppKeys.secretKey,
       contentType: Headers.formUrlEncodedContentType,
     );
     var paymentIntentModel = PaymentIntentModel.fromJson(response.data);
@@ -37,9 +37,9 @@ class StripeRemoteDataSourceImpl implements StripeRemoteDataSource {
     var response = await apiService.post(
       url: AppConstants.ephemeralKeyUrl,
       body: {'customer': customerId},
-      token: ApiKeys.secretKey,
+      token: AppKeys.secretKey,
       header: {
-        'Authorization': 'Bearer ${ApiKeys.secretKey}',
+        'Authorization': 'Bearer ${AppKeys.secretKey}',
         'Stripe-Version': '2023-10-16',
       },
       contentType: Headers.formUrlEncodedContentType,
@@ -76,7 +76,7 @@ class StripeRemoteDataSourceImpl implements StripeRemoteDataSource {
       var paymentIntentModel = await createPaymentIntent(
           paymentIntentInputModel: paymentIntentInputModel);
       var ephemeralKeyModel =
-          await createEphemeralKey(customerId: ApiKeys.customerId);
+          await createEphemeralKey(customerId: AppKeys.customerId);
       InitPaymentSheetInputModel initPaymentSheetInputModel =
           InitPaymentSheetInputModel(
         clientSecret: paymentIntentModel.clientSecret!,
