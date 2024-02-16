@@ -20,6 +20,7 @@ dependencies:
   dio: ^5.4.0
   dartz: ^0.10.1
   flutter_bloc: ^8.1.4
+  flutter_paypal_payment: ^1.0.6
 
 dev_dependencies:
   flutter_test:

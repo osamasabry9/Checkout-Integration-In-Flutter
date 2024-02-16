@@ -1,6 +1,8 @@
 -- Merging decision tree log ---
 application
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml:2:5-32:19
+MERGED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
 MERGED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:20:5-81:19
 MERGED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:20:5-81:19
 MERGED from [com.stripe:paymentsheet:20.34.4] /home/erhy/.gradle/caches/transforms-3/d554742dd2541fd31a7afa3bed8780ad/transformed/jetified-paymentsheet-20.34.4/AndroidManifest.xml:7:5-39:19
@@ -59,6 +61,7 @@ INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/m
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
 MERGED from [:flutter_credit_card] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_credit_card/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:stripe_android] /home/erhy/Projects/Flutter/checkout_integration/build/stripe_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.stripe:stripe-android:20.34.4] /home/erhy/.gradle/caches/transforms-3/3a5df849dfdf73ae47b67680beacd68d/transformed/jetified-stripe-android-20.34.4/AndroidManifest.xml:2:1-7:12
@@ -122,13 +125,14 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/erhy/.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] /home/erhy/.gradle/caches/transforms-3/20c1646fda67999cf7b1b8747cdc3db8/transformed/jetified-lifecycle-livedata-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/erhy/.gradle/caches/transforms-3/d4df14df2d56287a1bcc87e48a581394/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/erhy/.gradle/caches/transforms-3/cf2d729d674c74202493cba82d45ad14/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.5.0] /home/erhy/.gradle/caches/transforms-3/75a506a4fff521187f78725e53e2093c/transformed/webkit-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/erhy/.gradle/caches/transforms-3/c5015ff120776e6f2f391c90eb52e543/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.5.0] /home/erhy/.gradle/caches/transforms-3/94cf3766d3d81c0aff31640975ca50a7/transformed/browser-1.5.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /home/erhy/.gradle/caches/transforms-3/b9c9a52f91982a10622f825ef9f80822/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/erhy/.gradle/caches/transforms-3/333fbd04492d167f6291ef52ecbf2630/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/erhy/.gradle/caches/transforms-3/b41930dd8ef665ea2b62c20df1941922/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/erhy/.gradle/caches/transforms-3/2dd956faf49e299f9f0a241425f8782e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/f8f5b68a1e4d132cc8e161c6e6ac10c8/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/2d2018bd50b32f134b96e52985a4be61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/erhy/.gradle/caches/transforms-3/1fab3a0e1680bac63437582c467c4e7f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/erhy/.gradle/caches/transforms-3/69e1c7d9b8ad798efad6b70ec18eb229/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/erhy/.gradle/caches/transforms-3/b1b97a0a22667d97e112d9aa270b7d23/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
@@ -162,13 +166,13 @@ MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/erhy/.gradle/
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/erhy/.gradle/caches/transforms-3/2c0e87050c554717618f4f6162d56597/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/erhy/.gradle/caches/transforms-3/c34b22b64e0aeccc68a55abc3a926661/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /home/erhy/.gradle/caches/transforms-3/fe7817094e6fa486c56a2ec0834b881a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/erhy/.gradle/caches/transforms-3/93f6cd187fd39c2537ce87398c4fb8e8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/erhy/.gradle/caches/transforms-3/0f6ffd1a615445138ae0e054b88840a0/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:viewbinding:8.1.1] /home/erhy/.gradle/caches/transforms-3/f7b6445a548e335a4fe4589d898012b2/transformed/jetified-viewbinding-8.1.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/erhy/.gradle/caches/transforms-3/2ca4f4625abdedd1a6454c6ed4d681b9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.security:security-crypto:1.1.0-alpha05] /home/erhy/.gradle/caches/transforms-3/aef68fe9e4fa2b7b7ae29686f8449d8e/transformed/jetified-security-crypto-1.1.0-alpha05/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/erhy/.gradle/caches/transforms-3/ae4d38d5551973536f6d7f12fe69667c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/erhy/.gradle/caches/transforms-3/de3cb1575510340bfad876a8f788c8f9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/erhy/.gradle/caches/transforms-3/7064d45b6110f7815ae909428ef76b88/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/erhy/.gradle/caches/transforms-3/77de50b993ff6de665ec88ea9cf75061/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -197,6 +201,8 @@ uses-sdk
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_credit_card] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_credit_card/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_credit_card] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_credit_card/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:stripe_android] /home/erhy/Projects/Flutter/checkout_integration/build/stripe_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -323,6 +329,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/erhy/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/erhy/.gradle/caches/transforms-3/d4df14df2d56287a1bcc87e48a581394/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/erhy/.gradle/caches/transforms-3/cf2d729d674c74202493cba82d45ad14/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/erhy/.gradle/caches/transforms-3/cf2d729d674c74202493cba82d45ad14/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /home/erhy/.gradle/caches/transforms-3/75a506a4fff521187f78725e53e2093c/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /home/erhy/.gradle/caches/transforms-3/75a506a4fff521187f78725e53e2093c/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/erhy/.gradle/caches/transforms-3/c5015ff120776e6f2f391c90eb52e543/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/erhy/.gradle/caches/transforms-3/c5015ff120776e6f2f391c90eb52e543/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.5.0] /home/erhy/.gradle/caches/transforms-3/94cf3766d3d81c0aff31640975ca50a7/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.5.0] /home/erhy/.gradle/caches/transforms-3/94cf3766d3d81c0aff31640975ca50a7/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /home/erhy/.gradle/caches/transforms-3/b9c9a52f91982a10622f825ef9f80822/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
@@ -335,8 +345,6 @@ MERGED from [androidx.viewpager:viewpager:1.0.0] /home/erhy/.gradle/caches/trans
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/erhy/.gradle/caches/transforms-3/2dd956faf49e299f9f0a241425f8782e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/f8f5b68a1e4d132cc8e161c6e6ac10c8/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/f8f5b68a1e4d132cc8e161c6e6ac10c8/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/2d2018bd50b32f134b96e52985a4be61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/erhy/.gradle/caches/transforms-3/2d2018bd50b32f134b96e52985a4be61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/erhy/.gradle/caches/transforms-3/1fab3a0e1680bac63437582c467c4e7f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/erhy/.gradle/caches/transforms-3/1fab3a0e1680bac63437582c467c4e7f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/erhy/.gradle/caches/transforms-3/69e1c7d9b8ad798efad6b70ec18eb229/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -403,6 +411,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/erhy/.gradle/caches/t
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/erhy/.gradle/caches/transforms-3/c34b22b64e0aeccc68a55abc3a926661/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /home/erhy/.gradle/caches/transforms-3/fe7817094e6fa486c56a2ec0834b881a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /home/erhy/.gradle/caches/transforms-3/fe7817094e6fa486c56a2ec0834b881a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/erhy/.gradle/caches/transforms-3/93f6cd187fd39c2537ce87398c4fb8e8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/erhy/.gradle/caches/transforms-3/93f6cd187fd39c2537ce87398c4fb8e8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/erhy/.gradle/caches/transforms-3/0f6ffd1a615445138ae0e054b88840a0/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
@@ -415,8 +425,6 @@ MERGED from [androidx.security:security-crypto:1.1.0-alpha05] /home/erhy/.gradle
 MERGED from [androidx.security:security-crypto:1.1.0-alpha05] /home/erhy/.gradle/caches/transforms-3/aef68fe9e4fa2b7b7ae29686f8449d8e/transformed/jetified-security-crypto-1.1.0-alpha05/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/erhy/.gradle/caches/transforms-3/ae4d38d5551973536f6d7f12fe69667c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/erhy/.gradle/caches/transforms-3/ae4d38d5551973536f6d7f12fe69667c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/erhy/.gradle/caches/transforms-3/c0df5ac93d846ceea6bd0aa5baa9f142/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/erhy/.gradle/caches/transforms-3/de3cb1575510340bfad876a8f788c8f9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/erhy/.gradle/caches/transforms-3/de3cb1575510340bfad876a8f788c8f9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/erhy/.gradle/caches/transforms-3/7064d45b6110f7815ae909428ef76b88/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -448,11 +456,79 @@ MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/erhy/.gradl
 	android:name
 		ADDED from /home/erhy/Projects/Flutter/checkout_integration/android/app/src/debug/AndroidManifest.xml:6:22-64
 queries
-ADDED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:10:5-18:15
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:10:5-18:15
+MERGED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:10:5-18:15
 MERGED from [com.stripe:payments-core:20.34.4] /home/erhy/.gradle/caches/transforms-3/00e51ab1f8a7104b4ce6523d2e572ebf/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:8:5-12:15
 MERGED from [com.stripe:payments-core:20.34.4] /home/erhy/.gradle/caches/transforms-3/00e51ab1f8a7104b4ce6523d2e572ebf/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:8:5-12:15
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/erhy/.gradle/caches/transforms-3/5235012310d3ead5ee478f52d30934ba/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/erhy/.gradle/caches/transforms-3/5235012310d3ead5ee478f52d30934ba/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /home/erhy/Projects/Flutter/checkout_integration/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-61
 intent#action:name:android.intent.action.VIEW+data:scheme:http
 ADDED from [com.stripe:financial-connections:20.34.4] /home/erhy/.gradle/caches/transforms-3/a9b237401b5c5b5a2aee60fbd7bb6b9b/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:13:9-17:18
 action#android.intent.action.VIEW

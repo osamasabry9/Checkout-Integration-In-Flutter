@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-89:/values-sk-rSK/values-sk-rSK.xml",
+            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-91:/values-sk-rSK/values-sk-rSK.xml",
             "map": [
                 {
                     "source": "/home/erhy/.gradle/caches/transforms-3/d554742dd2541fd31a7afa3bed8780ad/transformed/jetified-paymentsheet-20.34.4/res/values-sk-rSK/values-sk-rSK.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-89:/values-pl-rPL/values-pl-rPL.xml",
+            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-91:/values-pl-rPL/values-pl-rPL.xml",
             "map": [
                 {
                     "source": "/home/erhy/.gradle/caches/transforms-3/9145ae589d24eafef27c806105332df0/transformed/jetified-stripe-core-20.34.4/res/values-pl-rPL/values-pl-rPL.xml",

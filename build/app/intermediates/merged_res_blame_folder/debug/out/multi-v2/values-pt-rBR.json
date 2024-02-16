@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-89:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-91:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/erhy/.gradle/caches/transforms-3/fa4c5727336553a5deb649549d372baf/transformed/jetified-payments-ui-core-20.34.4/res/values-pt-rBR/values-pt-rBR.xml",

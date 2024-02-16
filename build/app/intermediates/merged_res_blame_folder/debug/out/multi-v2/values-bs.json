@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-89:/values-bs/values-bs.xml",
+            "outputFile": "com.example.checkout_integration.app-mergeDebugResources-91:/values-bs/values-bs.xml",
             "map": [
                 {
                     "source": "/home/erhy/.gradle/caches/transforms-3/ccdae0452dea56dc8d2d60187ce94419/transformed/appcompat-1.6.1/res/values-bs/values-bs.xml",

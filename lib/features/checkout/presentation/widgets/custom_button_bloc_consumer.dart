@@ -1,3 +1,4 @@
+import '../../../../core/functions/paypal_functions.dart';
 import '../../../../core/widgets/custom_button.dart';
 import '../cubit/stripe_cubit.dart';
 import 'package:flutter/material.dart';
@@ -8,8 +9,10 @@ import '../../data/models/payment_intent_input_model/payment_intent_input_model.
 import '../views/thank_you_view.dart';
 
 class CustomButtonBlocConsumer extends StatelessWidget {
+  final int indexActive;
   const CustomButtonBlocConsumer({
     super.key,
+    required this.indexActive,
   });
 
   @override
@@ -33,13 +36,18 @@ class CustomButtonBlocConsumer extends StatelessWidget {
       builder: (context, state) {
         return CustomButton(
           onTap: () {
-            final paymentIntentInputModel = PaymentIntentInputModel(
-              amount: "100",
-              currency: "USD",
-              customerId:  ApiKeys.customerId,
-            );
-            BlocProvider.of<StripeCubit>(context)
-                .makePayment(paymentIntentInputModel: paymentIntentInputModel);
+            if (indexActive == 0) {
+              final paymentIntentInputModel = PaymentIntentInputModel(
+                amount: "100",
+                currency: "USD",
+                customerId: AppKeys.customerId,
+              );
+              BlocProvider.of<StripeCubit>(context).makePayment(
+                  paymentIntentInputModel: paymentIntentInputModel);
+            } else {
+              var transactionsData = getTransactionsData();
+              executePaypalPayment(context, transactionsData);
+            }
           },
           isLoading: state is StripeLoading ? true : false,
           text: 'Continue',
